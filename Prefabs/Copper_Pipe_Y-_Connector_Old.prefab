@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5931324783971431768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5068736159205135457, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 504d0fd0619727f4eb9e11269c6da677, type: 2}
+    - target: {fileID: 6000964832446190881, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 504d0fd0619727f4eb9e11269c6da677, type: 2}
+    - target: {fileID: 8464302270268338221, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 504d0fd0619727f4eb9e11269c6da677, type: 2}
+    - target: {fileID: 8640410087915159729, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_Name
+      value: Copper Pipe Y- Connector Old
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981083236492040715, guid: 9aa41e296d3089a4a8b8ce66ec5ad186,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9aa41e296d3089a4a8b8ce66ec5ad186, type: 3}
